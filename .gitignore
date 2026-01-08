@@ -1,0 +1,8 @@
+proxy
+cache/
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+proxy.c.bak
